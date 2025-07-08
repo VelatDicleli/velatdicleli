@@ -2,8 +2,9 @@
 <h3 align="center">🚀 AI & MLOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Automating+ML+Workflows+End-to-End...;LLM+Agents+in+Production+with+LangGraph+%26+CrewAI;Tracking+Every+Experiment+with+DVC+%26+W%26B;Deploying+FastAPI+Apps+to+Kubernetes+on+AWS+%26+Azure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=420&lines=Automating+ML+Workflows;Agents+with+LangGraph+%26+CrewAI;Tracking+Experiments+with+DVC+%26+W%26B;Deploying+FastAPI+on+Kubernetes" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -77,15 +78,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=velatdicleli&theme=tokyonight" />
 </p>
 
----
 
-## 🤝 Let’s Connect
-
-- 📧 **velatdicleli@example.com**
-- 🌐 [LinkedIn](https://linkedin.com/in/velatdicleli)
-- 🚀 [Portfolio](https://velat.dev)
-- 💬 Let's collaborate on **AI infrastructure**, **MLOps pipelines**, or **LLM agents in production**
-
----
 
 > _“Build. Automate. Scale. Repeat.”_ 💻⚙️📦
