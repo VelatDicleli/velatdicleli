@@ -50,28 +50,13 @@
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=flat&logo=python&logoColor=white)
 
----
 
-## 📦 Recent Highlights
+## 📈 GitHub Stats
 
-### 🔗 LLM Multi-Agent System
-- Built with **LangGraph**, **CrewAI**, and **LangChain Tools**
-- Tool-calling, document QA, and fallback reasoning enabled
-- Modular and scalable orchestration for multi-agent systems
-
-### ☸️ Kubernetes MLOps Deployment
-- Automated CI/CD using **GitHub Actions**
-- Deployment to **AWS EKS** and **Azure AKS** using **Helm**
-- Observability with **Prometheus** and **Grafana**
-
-### 📊 Experiment Tracking Suite
-- Full version control with **DVC**
-- Live dashboards with **Weights & Biases**
-- Model registry + lifecycle management via **MLflow**
-
----
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=velatdicleli&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velatdicleli&theme=tokyonight" />
+</p>
 
 
 
