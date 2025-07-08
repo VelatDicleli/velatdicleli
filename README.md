@@ -25,7 +25,9 @@
 
 ### 🧠 Deep Learning & LLMs
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="Langchain" />
- <img src="https://avatars.githubusercontent.com/u/150821507?s=200&v=4" height="40" alt="LangGraph" /> <img src="https://avatars.githubusercontent.com/u/149152625?s=200&v=4" height="40" alt="CrewAI" /> <img src="https://avatars.githubusercontent.com/u/100877234?s=200&v=4" height="40" alt="Qdrant" /> <img src="https://cdn.worldvectorlogo.com/logos/siemens.svg" height="40" alt="MCP / MindSphere" /> </p>
+ <img src="https://avatars.githubusercontent.com/u/150821507?s=200&v=4" height="40" alt="LangGraph" /> <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="40" alt="CrewAI" />
+ <img src="https://avatars.githubusercontent.com/u/100877234?s=200&v=4" height="40" alt="Qdrant" /> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" height="40" alt="MCP / MindSphere" />
+ </p>
 🚀 MLOps & Experiment Tracking
 <p align="left"> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40" alt="MLflow" /> <img src="https://user-images.githubusercontent.com/1253416/224891856-2a9b5e34-21d5-4661-9447-9b4f7d5f4918.png" height="40" alt="Weights & Biases" /> <img src="https://dvc.org/images/logo.svg" height="40" alt="DVC" /> </p>
 ☁️ DevOps, Cloud & Deployment
