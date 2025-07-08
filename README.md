@@ -25,16 +25,20 @@
 
 ### 🧠 Deep Learning & LLMs
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="Langchain" />
- <img src="https://avatars.githubusercontent.com/u/150821507?s=200&v=4" height="40" alt="LangGraph" /> <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="40" alt="CrewAI" />
- <img src="https://avatars.githubusercontent.com/u/100877234?s=200&v=4" height="40" alt="Qdrant" /> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" height="40" alt="MCP / MindSphere" />
+  <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="40" alt="CrewAI" />
+  <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" height="40" alt="MCP" />
  </p>
 🚀 MLOps & Experiment Tracking
-<p align="left"> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40" alt="MLflow" /> <img src="https://user-images.githubusercontent.com/1253416/224891856-2a9b5e34-21d5-4661-9447-9b4f7d5f4918.png" height="40" alt="Weights & Biases" /> <img src="https://dvc.org/images/logo.svg" height="40" alt="DVC" /> </p>
+<img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="40" alt="MLflow" />
+ <img src="https://avatars.githubusercontent.com/u/26401354?s=200&v=4" height="40" alt="Weights & Biases" />
+ <img src="https://avatars.githubusercontent.com/u/39572954?s=200&v=4" height="40" alt="DVC" />
+
 ☁️ DevOps, Cloud & Deployment
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" /> <img src="https://helm.sh/img/helm.svg" height="40" alt="Helm" /> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" alt="GitHub Actions" /> <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" height="40" alt="AWS" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /> </p>
 🔌 Backend & Serving
-<p align="left"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" /> <img src="https://www.svgrepo.com/show/374119/uvicorn.svg" height="40" alt="Uvicorn" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" /> <img src="https://gradio.app/assets/img/logo.svg" height="40" alt="Gradio" /> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="Streamlit" /> </p>
+<p align="left"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" /> <img src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4" height="40" alt="Gradio" />
+ <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="Streamlit" /> </p>
 
 
 
