@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **VelatDicleli/velatdicleli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://www.linkedin.com/posts/akshay-pachaar_a-python-decorator-is-all-you-need-to-deploy-ugcPost-7348328189653368833-m_6c?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhdcX4BmwmBGdaF1RwFGPetBLuW5Bv0LWY)
