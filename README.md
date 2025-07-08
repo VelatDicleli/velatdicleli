@@ -1,73 +1,90 @@
-<h1 align="center">Hi there, I'm Velat 👋</h1>
+<h1 align="center">👋 Hey, I'm Velat Dicleli</h1>
+<h3 align="center">🚀 AI & MLOps Engineer | LangChain + Kubernetes Enthusiast | Cloud-Native Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=AI+Engineer+%7C+ML+Developer;DevOps+Enthusiast+%7C+Full-Stack+Learner;Always+learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Automating+ML+Workflows+End-to-End...;LLM+Agents+in+Production+with+LangGraph+%26+CrewAI;Tracking+Every+Experiment+with+DVC+%26+W%26B;Deploying+FastAPI+Apps+to+Kubernetes+on+AWS+%26+Azure" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
-- 🎓 Recent graduate in **Software Engineering**  
-- 🤖 Passionate about **AI, Machine Learning**, and **MLOps**
-- 🛠️ Building intelligent systems with **LangChain**, **LangGraph**, and **Groq LLM**
-- ☁️ Deploying scalable solutions using **Docker**, **Kubernetes**, and **CI/CD**
-- 🔍 Focused on **RAG pipelines**, **Computer Vision**, and **LLM Applications**
-- 🌍 Based in **Turkey**, open to **remote or European opportunities**
+- 🎓 Software Engineer with a deep focus on **AI**, **MLOps**, and **Cloud DevOps**
+- ⚙️ End-to-End ML pipelines: from data preprocessing to Kubernetes deployment
+- 🧠 Building multi-agent AI apps with **LangChain**, **LangGraph**, and **CrewAI**
+- 🔬 Tracking ML experiments using **Weights & Biases**, **DVC**, and **MLflow**
+- ☸️ Containerizing and deploying ML APIs using **Docker**, **Helm**, and **Kubernetes**
+- ☁️ Experienced in **AWS**, **Azure**, and hybrid MLOps architectures
+- 🧩 Passionate about modular, observable, and production-grade AI systems
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Toolbox
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**AI/ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+### 🚀 MLOps & Experiment Tracking
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dataversioncontrol&logoColor=white)
 
-**DevOps & Infra**  
+### 🧠 LLM, Agents & Vector Search
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-5E60CE?style=flat&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-161B22?style=flat&logo=airbnb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-40A578?style=flat&logo=qdrant&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
+
+### ⚙️ DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
-**Backend**  
+### ☁️ Cloud & Platform
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-MindSphere-00ADEF?style=flat&logo=siemens&logoColor=white)
+
+### 🔌 Backend APIs & Serving
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 📦 Recent Highlights
 
-- 🔎 **RAG Pipeline with LangGraph + Groq LLM** — Multi-source document Q&A with BM25, Qdrant & Wikipedia fallback.
-- 💬 **Multi-Agent AI Framework** — Using CrewAI & HTTP-based remote orchestration.
-- 🩻 **Chest X-ray Captioning** — Fine-tuned ViT + GPT-2 for medical report generation.
-- 🔍 **Digital Forensics Toolkit** — Built with SleuthKit, binwalk & Autopsy for disk analysis.
+- 🔗 **LLM Multi-Agent System**
+  - Built with **LangGraph**, **CrewAI**, and **LangChain tools**
+  - Supports tool calling, document retrieval, and fallback reasoning
+  - Modularized for scalable orchestration
+
+- ☸️ **Kubernetes MLOps Deployment**
+  - CI/CD pipeline via **GitHub Actions**
+  - Deployed ML pipelines to **AWS EKS** and **Azure AKS** using **Helm**
+  - Metrics tracked with **Prometheus** + **Grafana**
+
+- 📊 **Experiment Tracking Suite**
+  - **MLflow** for model registry + DVC for versioned pipelines
+  - Real-time training dashboards with **Weights & Biases**
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velatdicleli&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velatdicleli&theme=github-dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=velatdicleli&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velatdicleli&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🤝 Let’s Connect
 
 - 📧 **velatdicleli@example.com**
-- 💼 [LinkedIn](https://linkedin.com/in/velatdicleli)
-- 🌐 [Portfolio Website](https://velat.dev) (if available)
+- 🌐 [LinkedIn](https://linkedin.com/in/velatdicleli)
+- 🚀 [Portfolio](https://velat.dev) _(if available)_
+- 💬 Let’s collaborate on AI infrastructure, MLOps pipelines, or multi-agent LLMs!
 
 ---
 
-_Thanks for stopping by!_ 🌟  
+> _“Build. Automate. Scale. Repeat.”_ 💻⚙️📦
