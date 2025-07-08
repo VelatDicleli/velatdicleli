@@ -24,13 +24,25 @@
 ## 🛠️ Tech Toolbox
 
 ### 🧠 Deep Learning & LLMs
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-5E60CE?style=flat&logo=graphql&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-161B22?style=flat&logo=airbnb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-40A578?style=flat&logo=qdrant&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-MindSphere-00ADEF?style=flat&logo=siemens&logoColor=white)
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" /> <img src="https://raw.githubusercontent.com/dair-ai/Prompt-Engineering-Guide/main/images/langchain.png" height="40" alt="LangChain" /> <img src="https://avatars.githubusercontent.com/u/150821507?s=200&v=4" height="40" alt="LangGraph" /> <img src="https://avatars.githubusercontent.com/u/149152625?s=200&v=4" height="40" alt="CrewAI" /> <img src="https://avatars.githubusercontent.com/u/100877234?s=200&v=4" height="40" alt="Qdrant" /> <img src="https://cdn.worldvectorlogo.com/logos/siemens.svg" height="40" alt="MCP / MindSphere" /> </p>
+🚀 MLOps & Experiment Tracking
+<p align="left"> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40" alt="MLflow" /> <img src="https://user-images.githubusercontent.com/1253416/224891856-2a9b5e34-21d5-4661-9447-9b4f7d5f4918.png" height="40" alt="Weights & Biases" /> <img src="https://dvc.org/images/logo.svg" height="40" alt="DVC" /> </p>
+☁️ DevOps, Cloud & Deployment
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" /> <img src="https://helm.sh/img/helm.svg" height="40" alt="Helm" /> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" alt="GitHub Actions" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /> </p>
+🔌 Backend & Serving
+<p align="left"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" /> <img src="https://www.svgrepo.com/show/374119/uvicorn.svg" height="40" alt="Uvicorn" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" /> <img src="https://gradio.app/assets/img/logo.svg" height="40" alt="Gradio" /> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="Streamlit" /> </p>
+
+
+
+
+
+
+
+
+
+
+ChatGPT’ye sor
+
 
 ### 🚀 MLOps & Experiment Tracking
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
@@ -47,7 +59,6 @@
 
 ### 🔌 Backend & Serving
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=flat&logo=python&logoColor=white)
 
 
