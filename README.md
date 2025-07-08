@@ -29,9 +29,7 @@
   <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" height="40" alt="MCP" />
  </p>
 🚀 MLOps & Experiment Tracking
-<img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="40" alt="MLflow" />
- <img src="https://avatars.githubusercontent.com/u/26401354?s=200&v=4" height="40" alt="Weights & Biases" />
- <img src="https://avatars.githubusercontent.com/u/39572954?s=200&v=4" height="40" alt="DVC" />
+<img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="40" alt="MLflow" /><img src="https://avatars.githubusercontent.com/u/26401354?s=200&v=4" height="40" alt="Weights & Biases" /><img src="https://avatars.githubusercontent.com/u/39572954?s=200&v=4" height="40" alt="DVC" />
 
 ☁️ DevOps, Cloud & Deployment
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" /> <img src="https://helm.sh/img/helm.svg" height="40" alt="Helm" /> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" alt="GitHub Actions" /> <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" height="40" alt="AWS" />
