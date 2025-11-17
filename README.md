@@ -51,7 +51,7 @@
 ### 🔌 Backend & Serving  
 <p align="left">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />  
   <img src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4" height="40" alt="Gradio" />  
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="Streamlit" />
 </p>
