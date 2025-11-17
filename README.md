@@ -42,7 +42,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />  
-  <img src="https://helm.sh/img/helm.svg" height="40" alt="Helm" />  
+  <img src="https://helm.sh/img/helm.svg" height="40" alt="Helm" />
+  <img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" height="40" alt="ArgoCD" />
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" alt="GitHub Actions" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
