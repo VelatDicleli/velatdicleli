@@ -14,7 +14,7 @@
 - 🧠 Building intelligent agents with **LangChain**, **LangGraph**, and **CrewAI**  
 - 🔬 Experiment tracking with **Weights & Biases**, **DVC**, and **MLflow**  
 - ☸️ Containerizing and deploying ML APIs using **Docker**, **Helm**, and **Kubernetes**  
-- ☁️ Skilled in hybrid cloud MLOps on **AWS** and **Azure**  
+- ☁️ Skilled in hybrid cloud MLOps on **GCP** and **Azure**  
 - 🧪 Passionate about modular, observable, and scalable AI systems  
 - 🔥 Strong experience in **PyTorch** for deep learning and model experimentation  
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />  
   <img src="https://helm.sh/img/helm.svg" height="40" alt="Helm" />  
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" alt="GitHub Actions" />  
-  <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" height="40" alt="AWS" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </p>
 
