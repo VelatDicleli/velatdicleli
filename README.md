@@ -52,8 +52,8 @@
 ### 🔌 Backend & Serving  
 <p align="left">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />  
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 </p>
 
 ---
